@@ -2,6 +2,8 @@
 
 ### Link to blogpost
 
+https://medium.com/@artem.krasnobaev/exploring-pollution-of-marine-ecosystems-with-machine-learning-and-avoiding-interpretation-6d1cbdc41817
+
 ### Short Description
 
 Project on using Machine Learning to find out how different charastics influnce concentrations of pollutants in musels
