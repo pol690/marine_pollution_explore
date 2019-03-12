@@ -16,12 +16,9 @@ For the latter, the clear advantage of novel algorithms (Catboost and LightGBM) 
 
 Generally, the usefulness of ML for ecological and biochemical studies was demonstrated.
 
-### File description
-
-##### 1A 
-##### 1B       
-
-Datasets used. 
+### Dataset description
+      
+Datasets used were too big to be upload to github as single files. The files can be found online with the links below. 
 
 Source:  Kaggle, original dataset from The National Oceanic and Atmospheric Administration (NOAA) National Status and Trends (NS&T) Mussel Watch Program of the USA
 
@@ -29,13 +26,13 @@ Links: https://www.kaggle.com/sohier/mussel-watch
 
   https://products.coastalscience.noaa.gov/collections/ltmonitoring/nsandt/data2.aspx
 
+### File description
 
-
-##### 2 Mus_project.ipynb 
+##### 1 Mus_project.ipynb 
 
 Jupyter notebook with code written in Python 3.
 
-##### 3 README.md
+##### 2 README.md
 
 ### Packages
 
